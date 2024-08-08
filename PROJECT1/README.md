@@ -92,4 +92,6 @@ http://<AWS-EC2-Instance-Public-Ip-Address>
 ```
 
 We've come to the end of our first project. if you have any suggestions do let me know.
+You can try out this project by forking this repo and replicating the following commands.
+If you encounter any challenge do let me know here or on [LinkedIn](https://www.linkedin.com/in/uche-francis-6803b080/)
 Thank you.
